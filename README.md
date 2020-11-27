@@ -1,6 +1,5 @@
 ## Hi I'm Danny :fox_face:
 
-:computer: _Architect at [National Australia Bank](https://www.nab.com.au)_ :desert_island:Living in Melbourne.
 
 ### My Tech Stack
 
